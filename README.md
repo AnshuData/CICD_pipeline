@@ -1,4 +1,4 @@
-CI/CD pipeline using github actions and argoCD
+CI/CD sample pipeline using github actions and argoCD
 
 
 credit:
